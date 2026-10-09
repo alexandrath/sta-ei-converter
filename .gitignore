@@ -1,0 +1,11 @@
+.DS_Store
+._*
+*.sta
+*.ei
+*.sta_short
+*.ei_short
+*.globals
+*.neurons
+*.params
+*.class
+build/
